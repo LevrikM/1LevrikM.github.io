@@ -1,0 +1,140 @@
+body {
+  background-color: #f2f2f2;
+    font-weight: 300;
+    font-size: 16px;
+
+    -webkit-font-smoothing: antialiased;
+    -webkit-overflow-scrolling: touch;
+}
+
+h1, h2, h3, h4, h5, h6
+{
+	font-weight: 300;
+}
+
+p 
+{
+	margin-bottom: 25px;
+}
+
+.navbar-toggler
+{
+	background: red;
+}
+
+.centered
+{
+	text-align: center;
+}
+
+.navbar-brand
+{
+	margin-left: 220px;
+}
+
+.navbar-collapse
+{
+	margin-right: 220px;
+}
+
+.navl
+{
+	color: red;
+	font-weight: 500;
+	font-size: 20px;
+	padding: 5px;
+}
+.navl:hover
+{
+	color: #c0c0c0;
+}
+
+#headerwrap
+{
+	background: url(marvel_character_group-crop.jpg);
+	width: 100%;
+	min-height: 500px;
+	background-size: cover;
+	text-align: center;
+}
+
+#headerwrap h1
+{
+	margin-top: 100px;
+	color: rgb(255, 255, 255);
+	font-weight: 700;
+	font-size: 70px;
+	letter-spacing: 3px;
+}
+#headerwrap h2
+{
+	
+	color: rgb(255, 255, 255);
+	font-weight: 500;
+	font-size: 40px;
+	letter-spacing: 3px;
+}
+.fon
+{
+	background: rgba(88, 88, 88, 0.5);
+}
+.btn-danger
+{
+	font-weight: 700;
+	color: #fafafa;
+	margin-top: 100px;
+}
+#dg
+{
+	background: #e0e0e0;
+	padding-top: 70px;
+	padding-bottom: 70px;
+	text-align: center;
+}
+
+#dg h4 {
+    font-size: 48px;
+    font-weight: bold;
+    color: #800000;
+    padding-bottom: 20px;
+}
+
+#dg h4:hover
+{
+	color: red;
+}
+
+#dg h3 {
+    font-size: 18px;
+    font-weight: bold;
+    color: #800000;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+#dg2 {
+	padding-top: 70px;
+	padding-bottom: 70px;
+	text-align: center;
+}
+
+#dg2 h4 {
+	font-size: 48px;
+	font-weight: bold;
+	color: #800000;
+	padding-bottom: 20px;
+}
+
+#dg2 h4:hover
+{
+	color: red;
+}
+
+#dg2 h2 {
+	font-size: 18px;
+	padding-top: 20px;
+	text-align: center;
+	color: #800000;
+	margin-top: 15px;
+	font-weight: bold;
+}
